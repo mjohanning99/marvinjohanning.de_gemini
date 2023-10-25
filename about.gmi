@@ -1,3 +1,5 @@
+=> index.gmi Home
+
 # About Me
 Hello there! My name is Marvin, I am 24 years old and live in Germany. My particular interests revolve around technology and language. I am the maintainer of a website dedicated to freely distributing information on the Ancient Greek language called Ancient-Greek.net; I also run a YouTube channel and Twitter account with the same name and for the same purpose. I have always found the somewhat dated things more interesting; they have more of a personality than newer things to do me, for some reason. The latter is also why I like studying ancient languages such as Ancient Egyptian and Ancient Greek.
 
