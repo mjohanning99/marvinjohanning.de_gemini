@@ -21,6 +21,9 @@ I am Marvin Johanning, an IT systems administrator, hobbyist wildlife photograph
 
 This is my personal website running on Gemini. If you're viewing this website in a regular webbrowser, you are accessing it via an HTTP proxy. For more information about me and the website, scroll down!
 
+=> about.gmi About me
+This page contains more information about me and my hobbies. 
+
 # Where you can find me on the web
 => https://beakandlens.com Beak And Lens Photography (my photography website)
 => https://ancient-greek.net Ancient-Greek.net
